@@ -1,12 +1,12 @@
 # NFL-Big-Data-Bowl-2024
-**Overview:** <br>
+### Overview:
 American football is a complex sport, but once an offensive player receives a handoff or catches a pass, all 11 defenders focus on one task -- tackle that ball carrier as soon as possible. Conversely, the ball carrier's role is to advance the ball down the field to gain as much yardage as possible until he is tackled, scores, or runs out of bounds.<br>
 <br>
 This year's competition offers up a general goal — create metrics that assign value to elements of tackling. You can access the NFL’s Next Gen Stats data as in previous competitions. This year's player tracking includes data from Weeks 1-9 of the 2022 NFL season. Data will show the location, speed, and acceleration of all 22 players on the field, along with football location. Additional PFF scouting data and NFL advanced stats such as expected points and win probability are also included.<br>
 <br>
 Top winners will be invited to present their results to the NFL, where one team will receive an additional prize. NFL teams may also use the most useful new metrics or analysis to evaluate both their offensive and defensive players.<br>
 <br>
-**Examples to consider** <br>
+### Examples to consider
 Your challenge is generating actionable, practical, and novel insights from player tracking data corresponding to tackling. Examples include, but are not limited to:<br>
 <br>
 - Predictions of tackle time, probability, and/or location<br>
@@ -17,12 +17,12 @@ Your challenge is generating actionable, practical, and novel insights from play
 - Team and player roles and responsibilities (setting the edge, filling gaps, etc)<br>
 Note that the above list is not exhaustive, and we encourage participants to be creative with their submissions.<br>
 <br>
-**Submission Tracks:** <br>
+### Submission Tracks:
 1. Undergraduate track. This is open only to groups or individuals composed entirely of undergraduate students. Verification may be required to prove eligibility. <br>
 2. Metric track. Create a metric to assess performance and/or strategy. You may focus on offensive or defensive players, teams, or individuals.<br>
 3. Coaching presentation track. This track aims to analyze and present data in a submission designed for coaches. We encourage participants interested in this track to partner with a coach (or current/former player), though this isn’t required.<br>
 <br>
-**Notebook requirements**
+### Notebook requirements
 Notebooks should contain at most 2,000 words and less than ten tables/figures. Submissions will not be penalized for any number of words or figures under this limit. Participants are encouraged to show statistical code if it helps readers better understand their analyses. However, most code should be hidden in the Appendix.<br>
 <br>
 All notebooks submitted must be made public on or before the submission deadline to be eligible. If submitting as a team, all team members must be listed as collaborators on all notebooks submitted.<br>
